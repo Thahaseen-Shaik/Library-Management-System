@@ -64,7 +64,7 @@ Project Structure
 
 Clone the repository
 
-git clone 
+git clone https://github.com/Thahaseen-Shaik/Library-Management-System.git
 
 Import database file
 Run backend server
