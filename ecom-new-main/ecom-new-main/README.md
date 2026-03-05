@@ -4,10 +4,7 @@ A full-stack web application designed to simplify library operations by managing
 
 👩‍💻 Developers
 
-Rashmi Kondeti
-Thahaseen Shaik
-
-Thahaseen
+Thahaseen Gulam
 
 🚀 Features
 ✅ User & Admin Authentication
@@ -79,4 +76,4 @@ Export reports (PDF/Excel)
 
 📬 Contact
 
-For queries, reach out at thahaseenshaik135@gmail.com, rashmikondeti18@gmail.com
+For queries, reach out at thahaseengulamshaik@gmail.com
